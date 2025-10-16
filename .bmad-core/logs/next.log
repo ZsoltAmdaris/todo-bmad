@@ -1,0 +1,193 @@
+
+> web@0.1.0 dev
+> next dev
+
+   ▲ Next.js 15.5.5
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.68.62:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 1200ms
+ ○ Compiling / ...
+ ✓ Compiled / in 826ms (1600 modules)
+ GET / 200 in 1125ms
+ GET / 200 in 52ms
+ ✓ Compiled in 291ms (1594 modules)
+ GET / 200 in 206ms
+ ✓ Compiled /favicon.ico in 102ms (871 modules)
+ GET /favicon.ico 200 in 173ms
+ GET / 200 in 165ms
+ GET /favicon.ico 200 in 9ms
+ ✓ Compiled in 229ms (1594 modules)
+ ✓ Compiled in 117ms (1594 modules)
+ GET / 200 in 235ms
+ ✓ Compiled /favicon.ico in 76ms (871 modules)
+ GET /favicon.ico 200 in 139ms
+ GET / 200 in 167ms
+ GET /favicon.ico 200 in 8ms
+ GET / 200 in 49ms
+ GET /favicon.ico 200 in 8ms
+ ✓ Compiled in 225ms (1594 modules)
+ ✓ Compiled in 112ms (1594 modules)
+ GET / 200 in 232ms
+ ✓ Compiled /favicon.ico in 72ms (871 modules)
+ GET /favicon.ico 200 in 144ms
+ ✓ Compiled in 304ms (1611 modules)
+ GET / 200 in 170ms
+ GET /favicon.ico 200 in 12ms
+ ✓ Compiled in 304ms (1611 modules)
+ GET / 200 in 191ms
+ GET /favicon.ico 200 in 6ms
+ ✓ Compiled in 245ms (1594 modules)
+ ✓ Compiled in 102ms (1594 modules)
+ ✓ Compiled in 93ms (1594 modules)
+ GET / 200 in 232ms
+ ✓ Compiled /favicon.ico in 71ms (871 modules)
+ GET /favicon.ico 200 in 137ms
+ ✓ Compiled in 132ms (1611 modules)
+ ✓ Compiled in 128ms (1611 modules)
+ ✓ Compiled in 290ms (1594 modules)
+ ✓ Compiled in 290ms (1596 modules)
+ GET / 200 in 92ms
+ GET /?f=active 200 in 30ms
+ GET / 200 in 20ms
+ GET /?f=active 200 in 14ms
+ GET /?f=completed 200 in 17ms
+ GET / 200 in 17ms
+ GET /?q=e 200 in 20ms
+ GET /?q=el 200 in 18ms
+ GET /?q=els 200 in 22ms
+ GET / 200 in 21ms
+ ✓ Compiled in 452ms (1608 modules)
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 645ms (1613 modules)
+ GET /en/home 404 in 832ms
+ GET /en/home 404 in 22ms
+ ✓ Compiled /favicon.ico in 130ms (879 modules)
+ GET /favicon.ico 200 in 186ms
+ ✓ Compiled in 364ms (1608 modules)
+ ✓ Compiled in 108ms (1608 modules)
+ ✓ Compiled in 292ms (1608 modules)
+ ✓ Compiled in 132ms (1608 modules)
+ ✓ Compiled in 133ms (1608 modules)
+ ✓ Compiled in 113ms (1608 modules)
+ ✓ Compiled in 117ms (1608 modules)
+ ✓ Compiled in 102ms (1608 modules)
+ ✓ Compiled in 126ms (1608 modules)
+ ✓ Compiled in 94ms (1608 modules)
+ ✓ Compiled in 92ms (1608 modules)
+ ✓ Compiled in 293ms (1608 modules)
+ ✓ Compiled in 132ms (1608 modules)
+ ✓ Compiled in 137ms (1608 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/Users/zsolt.ienei/Documents/Projects/todo-bmad/app/web/.next/cache/webpack/server-development/0.pack.gz_' -> '/Users/zsolt.ienei/Documents/Projects/todo-bmad/app/web/.next/cache/webpack/server-development/0.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename '/Users/zsolt.ienei/Documents/Projects/todo-bmad/app/web/.next/cache/webpack/client-development/16.pack.gz_' -> '/Users/zsolt.ienei/Documents/Projects/todo-bmad/app/web/.next/cache/webpack/client-development/16.pack.gz'
+ ✓ Compiled in 130ms (1608 modules)
+ ✓ Compiled in 126ms (1608 modules)
+ ⨯ ./src/app/page.tsx
+Module parse failed: Identifier 'router' has already been declared (89:10)
+|     const [savingId, setSavingId] = useState(null);
+|     // search, filter, sort (Story 006)
+>     const router = useRouter();
+|     const searchParams = useSearchParams();
+|     const [search, setSearch] = useState(searchParams.get('q') || '');
+
+Import trace for requested module:
+./src/app/page.tsx
+ ⨯ ./src/app/page.tsx
+Module parse failed: Identifier 'router' has already been declared (89:10)
+|     const [savingId, setSavingId] = useState(null);
+|     // search, filter, sort (Story 006)
+>     const router = useRouter();
+|     const searchParams = useSearchParams();
+|     const [search, setSearch] = useState(searchParams.get('q') || '');
+
+Import trace for requested module:
+./src/app/page.tsx
+ ⨯ ./src/app/page.tsx
+Module parse failed: Identifier 'router' has already been declared (89:10)
+|     const [savingId, setSavingId] = useState(null);
+|     // search, filter, sort (Story 006)
+>     const router = useRouter();
+|     const searchParams = useSearchParams();
+|     const [search, setSearch] = useState(searchParams.get('q') || '');
+
+Import trace for requested module:
+./src/app/page.tsx
+ ⨯ ./src/app/page.tsx
+Module parse failed: Identifier 'router' has already been declared (91:10)
+|     const [savingId, setSavingId] = useState(null);
+|     // search, filter, sort (Story 006)
+>     const router = useRouter();
+|     const searchParams = useSearchParams();
+|     const [search, setSearch] = useState(searchParams.get('q') || '');
+
+Import trace for requested module:
+./src/app/page.tsx
+ ⨯ ./src/app/page.tsx
+Module parse failed: Identifier 'router' has already been declared (91:10)
+|     const [savingId, setSavingId] = useState(null);
+|     // search, filter, sort (Story 006)
+>     const router = useRouter();
+|     const searchParams = useSearchParams();
+|     const [search, setSearch] = useState(searchParams.get('q') || '');
+
+Import trace for requested module:
+./src/app/page.tsx
+ ⨯ ./src/app/page.tsx
+Module parse failed: Identifier 'router' has already been declared (91:10)
+|     const [savingId, setSavingId] = useState(null);
+|     // search, filter, sort (Story 006)
+>     const router = useRouter();
+|     const searchParams = useSearchParams();
+|     const [search, setSearch] = useState(searchParams.get('q') || '');
+
+Import trace for requested module:
+./src/app/page.tsx
+ ⨯ ./src/app/page.tsx
+Module parse failed: Identifier 'router' has already been declared (91:10)
+|     const [savingId, setSavingId] = useState(null);
+|     // search, filter, sort (Story 006)
+>     const router = useRouter();
+|     const searchParams = useSearchParams();
+|     const [search, setSearch] = useState(searchParams.get('q') || '');
+
+Import trace for requested module:
+./src/app/page.tsx
+ ⨯ ./src/app/page.tsx
+Error:   [31mx[0m Expected 'from', got 'fromexport'
+   ,-[[36;1;4m/Users/zsolt.ienei/Documents/Projects/todo-bmad/app/web/src/app/page.tsx[0m:3:1]
+ [2m1[0m | 'use client';
+ [2m2[0m | 
+ [2m3[0m | import useSWR, { mutate } fromexport default function Home() {
+   : [35;1m                          ^^^^^^^^^^[0m
+ [2m4[0m |   const [page, setPage] = useState(1);
+ [2m5[0m |   const [allTodos, setAllTodos] = useState<Todo[]>([]);
+ [2m6[0m |   const [loadingMore, setLoadingMore] = useState(false);
+   `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/page.tsx
+ ⨯ ./src/app/page.tsx
+Error:   [31mx[0m Expression expected
+    ,-[[36;1;4m/Users/zsolt.ienei/Documents/Projects/todo-bmad/app/web/src/app/page.tsx[0m:93:1]
+ [2m90[0m |   Snackbar,
+ [2m91[0m |   Skeleton,
+ [2m92[0m |   MenuItem,
+ [2m93[0m | } from '@mui/material';
+    : [35;1m^[0m
+ [2m94[0m | import DeleteIcon from '@mui/icons-material/Delete';
+ [2m95[0m | import {
+ [2m96[0m |   Todo,
+    `----
+
+Caused by:
+    Syntax Error
+
+Import trace for requested module:
+./src/app/page.tsx
+ ✓ Compiled in 1113ms (1608 modules)
+ ✓ Compiled in 506ms (1608 modules)
