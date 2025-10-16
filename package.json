@@ -1,0 +1,37 @@
+{
+  "name": "todo-bmad",
+  "version": "1.0.0",
+  "description": "Todo application built with BMAD-Method framework",
+  "private": true,
+  "workspaces": [
+    "app/api",
+    "app/web"
+  ],
+  "scripts": {
+    "bmad:status": "node scripts/bmad-status.js",
+    "bmad:agents": "node scripts/bmad-agents.js",
+    "bmad:stories": "node scripts/bmad-stories.js",
+    "dev:api": "cd app/api && npm run develop",
+    "dev:web": "cd app/web && npm run dev",
+    "dev": "concurrently \"npm run dev:api\" \"npm run dev:web\"",
+    "build:api": "cd app/api && npm run build",
+    "build:web": "cd app/web && npm run build",
+    "build": "npm run build:api && npm run build:web",
+    "test:api": "cd app/api && npm test",
+    "test:web": "cd app/web && npm test",
+    "test": "npm run test:api && npm run test:web",
+    "seed": "cd app/api && node scripts/seed-test-data.js"
+  },
+  "keywords": [
+    "todo",
+    "bmad-method",
+    "strapi",
+    "nextjs"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "yaml": "^2.8.1"
+  }
+}

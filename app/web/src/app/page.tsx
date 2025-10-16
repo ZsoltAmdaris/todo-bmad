@@ -62,6 +62,7 @@ export default function Home() {
   // search, filter, sort (Story 006)
   const router = useRouter();
   const searchParams = useSearchParams();
+  const [searchInput, setSearchInput] = useState<string>(searchParams.get('q') || '');
   const [search, setSearch] = useState<string>(searchParams.get('q') || '');
   const [filter, setFilter] = useState<'all' | 'active' | 'completed'>(
     (searchParams.get('f') as any) || 'all'
@@ -69,7 +70,16 @@ export default function Home() {
   const [sort, setSort] = useState<'created_desc' | 'created_asc'>(
     (searchParams.get('s') as any as 'created_desc' | 'created_asc') || 'created_desc'
   );
-  // debounce sync to URL
+
+  // Debounce search input (500ms delay)
+  useEffect(() => {
+    const t = setTimeout(() => {
+      setSearch(searchInput);
+    }, 500);
+    return () => clearTimeout(t);
+  }, [searchInput]);
+
+  // debounce sync to URL and reset pagination
   useEffect(() => {
     // Reset pagination when filters change
     setPage(1);
@@ -254,8 +264,8 @@ export default function Home() {
       <Stack direction='row' spacing={2} sx={{ mb: 2 }}>
         <TextField
           placeholder='Search...'
-          value={search}
-          onChange={(e) => setSearch(e.target.value)}
+          value={searchInput}
+          onChange={(e) => setSearchInput(e.target.value)}
           fullWidth
         />
       </Stack>

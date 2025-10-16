@@ -617,3 +617,296 @@ http://localhost:1337
 [2025-10-16 11:52:12.295] [32mhttp[39m: OPTIONS /api/todos/ku8gnxuclywwcheev0p64hv6 (1 ms) 204
 [2025-10-16 11:52:12.306] [32mhttp[39m: PUT /api/todos/ku8gnxuclywwcheev0p64hv6 (10 ms) 200
 [2025-10-16 11:52:12.400] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (9 ms) 200
+[2025-10-16 11:52:42.973] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (5 ms) 200
+[2025-10-16 11:57:03.443] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (14 ms) 200
+[2025-10-16 11:57:09.146] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (8 ms) 200
+[2025-10-16 11:57:10.289] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=2&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (3 ms) 200
+[2025-10-16 11:57:11.715] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=3&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (8 ms) 200
+[2025-10-16 11:57:12.221] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=4&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (8 ms) 200
+[2025-10-16 11:57:19.466] [32mhttp[39m: OPTIONS /api/todos/tcp465mutik4ydc53ro95s24 (1 ms) 204
+[2025-10-16 11:57:19.476] [32mhttp[39m: DELETE /api/todos/tcp465mutik4ydc53ro95s24 (8 ms) 204
+[2025-10-16 11:57:19.532] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=4&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (6 ms) 200
+[2025-10-16 11:57:22.273] [32mhttp[39m: DELETE /api/todos/tcp465mutik4ydc53ro95s24 (5 ms) 204
+[2025-10-16 11:57:22.331] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=4&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (6 ms) 200
+[2025-10-16 11:57:24.693] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (4 ms) 200
+[2025-10-16 11:57:27.117] [32mhttp[39m: OPTIONS /api/todos/bpot1f8e1sp8ex4xltbzwosd (1 ms) 204
+[2025-10-16 11:57:27.128] [32mhttp[39m: DELETE /api/todos/bpot1f8e1sp8ex4xltbzwosd (9 ms) 204
+[2025-10-16 11:57:27.156] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (5 ms) 200
+[2025-10-16 11:57:33.122] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (9 ms) 200
+[2025-10-16 11:57:35.313] [32mhttp[39m: OPTIONS /api/todos/yf0l8f4tsbxq9m6dncdei1jt (0 ms) 204
+[2025-10-16 11:57:35.322] [32mhttp[39m: DELETE /api/todos/yf0l8f4tsbxq9m6dncdei1jt (7 ms) 204
+[2025-10-16 11:57:35.384] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (8 ms) 200
+[2025-10-16 11:57:37.932] [32mhttp[39m: OPTIONS /api/todos/dk2oi6edzjvre52rdsq5qyur (0 ms) 204
+[2025-10-16 11:57:37.942] [32mhttp[39m: DELETE /api/todos/dk2oi6edzjvre52rdsq5qyur (7 ms) 204
+[2025-10-16 11:57:38.000] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (7 ms) 200
+[2025-10-16 11:57:40.530] [32mhttp[39m: OPTIONS /api/todos/uh0a9xcs85c9beo1qb2au12y (1 ms) 204
+[2025-10-16 11:57:40.541] [32mhttp[39m: DELETE /api/todos/uh0a9xcs85c9beo1qb2au12y (8 ms) 204
+[2025-10-16 11:57:40.602] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (9 ms) 200
+[2025-10-16 11:57:43.983] [32mhttp[39m: OPTIONS /api/todos/avepjiwfox6fy8vg0zxo8h3r (0 ms) 204
+[2025-10-16 11:57:43.996] [32mhttp[39m: DELETE /api/todos/avepjiwfox6fy8vg0zxo8h3r (10 ms) 204
+[2025-10-16 11:57:44.022] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (3 ms) 200
+[2025-10-16 11:57:45.603] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (5 ms) 200
+[2025-10-16 11:57:47.650] [32mhttp[39m: OPTIONS /api/todos/ttq8ogre7cr7h7odldcjdq8z (0 ms) 204
+[2025-10-16 11:57:47.661] [32mhttp[39m: DELETE /api/todos/ttq8ogre7cr7h7odldcjdq8z (8 ms) 204
+[2025-10-16 11:57:47.686] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (4 ms) 200
+[2025-10-16 11:57:49.654] [32mhttp[39m: DELETE /api/todos/ku8gnxuclywwcheev0p64hv6 (10 ms) 204
+[2025-10-16 11:57:49.684] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (7 ms) 200
+[2025-10-16 11:57:51.016] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=2&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (8 ms) 200
+[2025-10-16 11:57:51.130] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=3&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (6 ms) 200
+[2025-10-16 11:57:52.968] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=3&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Bdone%5D%5B%24eq%5D=false (7 ms) 200
+[2025-10-16 11:57:52.978] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Bdone%5D%5B%24eq%5D=false (5 ms) 200
+[2025-10-16 11:57:54.062] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=2&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Bdone%5D%5B%24eq%5D=false (8 ms) 200
+[2025-10-16 11:57:55.776] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=3&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Bdone%5D%5B%24eq%5D=true (10 ms) 200
+[2025-10-16 11:57:55.784] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Bdone%5D%5B%24eq%5D=true (4 ms) 200
+[2025-10-16 11:57:57.850] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (8 ms) 200
+[2025-10-16 11:57:59.929] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Btitle%5D%5B%24containsi%5D=a (8 ms) 200
+[2025-10-16 11:58:00.039] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Btitle%5D%5B%24containsi%5D=as (7 ms) 200
+[2025-10-16 11:58:00.082] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Btitle%5D%5B%24containsi%5D=asd (6 ms) 200
+[2025-10-16 11:58:02.335] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Btitle%5D%5B%24containsi%5D=a (2 ms) 200
+[2025-10-16 11:58:02.769] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (9 ms) 200
+[2025-10-16 11:58:17.367] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (3 ms) 200
+[2025-10-16 12:05:18.387] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (7 ms) 200
+[2025-10-16 12:08:26.724] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (9 ms) 200
+[2025-10-16 12:11:42.833] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (17 ms) 200
+[2025-10-16 12:12:09.555] [32mhttp[39m: GET / (1 ms) 302
+[2025-10-16 12:12:09.562] [32mhttp[39m: GET /admin (4 ms) 200
+[2025-10-16 12:12:09.745] [32mhttp[39m: GET /admin/project-type (2 ms) 200
+[2025-10-16 12:12:09.816] [32mhttp[39m: GET /admin/init (4 ms) 200
+[2025-10-16 12:12:09.821] [32mhttp[39m: GET /admin/users/me (3 ms) 401
+[2025-10-16 12:12:09.825] [32mhttp[39m: GET /admin/users/me/permissions (3 ms) 401
+[2025-10-16 12:12:09.830] [32mhttp[39m: GET /admin/information (3 ms) 401
+[2025-10-16 12:12:09.837] [32mhttp[39m: GET /admin/telemetry-properties (5 ms) 401
+[2025-10-16 12:12:09.849] [32mhttp[39m: POST /admin/access-token (16 ms) 200
+[2025-10-16 12:12:09.857] [32mhttp[39m: GET /admin/users/me (5 ms) 200
+[2025-10-16 12:12:09.864] [32mhttp[39m: GET /admin/users/me/permissions (6 ms) 200
+[2025-10-16 12:12:09.868] [32mhttp[39m: GET /admin/information (9 ms) 200
+[2025-10-16 12:12:09.894] [32mhttp[39m: GET /admin/guided-tour-meta (5 ms) 200
+[2025-10-16 12:12:09.896] [32mhttp[39m: GET /admin/license-limit-information (1 ms) 200
+[2025-10-16 12:12:09.944] [32mhttp[39m: GET /content-manager/homepage/recent-documents?action=update (16 ms) 200
+[2025-10-16 12:12:09.951] [32mhttp[39m: GET /content-manager/homepage/recent-documents?action=publish (6 ms) 200
+[2025-10-16 12:12:09.957] [32mhttp[39m: GET /content-manager/homepage/count-documents (5 ms) 200
+[2025-10-16 12:12:09.962] [32mhttp[39m: GET /admin/homepage/key-statistics (4 ms) 200
+[2025-10-16 12:12:31.636] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (10 ms) 200
+[2025-10-16 12:12:32.869] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=2&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (14 ms) 200
+[2025-10-16 12:12:33.091] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=3&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (10 ms) 200
+[2025-10-16 12:13:05.952] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=3&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (10 ms) 200
+[2025-10-16 12:13:06.518] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=3&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Bdone%5D%5B%24eq%5D=false (8 ms) 200
+[2025-10-16 12:13:06.534] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Bdone%5D%5B%24eq%5D=false (12 ms) 200
+[2025-10-16 12:13:07.270] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Bdone%5D%5B%24eq%5D=true (8 ms) 200
+[2025-10-16 12:13:07.949] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (11 ms) 200
+[2025-10-16 12:13:54.714] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (3 ms) 200
+[2025-10-16 12:13:59.186] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=2&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (9 ms) 200
+[2025-10-16 12:14:16.747] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=2&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (13 ms) 200
+[2025-10-16 12:14:42.116] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=2&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (9 ms) 200
+[2025-10-16 12:14:48.618] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=2&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Btitle%5D%5B%24containsi%5D=2w3456765r4esdf (9 ms) 200
+[2025-10-16 12:14:48.645] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Btitle%5D%5B%24containsi%5D=2w3456765r4esdf (10 ms) 200
+[2025-10-16 12:14:50.815] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (7 ms) 200
+[2025-10-16 12:14:53.474] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Btitle%5D%5B%24containsi%5D=2345 (9 ms) 200
+[2025-10-16 12:14:55.603] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Btitle%5D%5B%24containsi%5D=234 (7 ms) 200
+[2025-10-16 12:14:56.572] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Btitle%5D%5B%24containsi%5D=23 (7 ms) 200
+[2025-10-16 12:14:57.545] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Btitle%5D%5B%24containsi%5D=2 (7 ms) 200
+[2025-10-16 12:14:59.101] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (9 ms) 200
+[2025-10-16 12:15:36.001] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=2&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (9 ms) 200
+[2025-10-16 12:15:36.188] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=3&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (7 ms) 200
+12:21:23 PM [vite] page reload .strapi/client/index.html
+12:21:23 PM [vite] page reload .strapi/client/app.js
+[2025-10-16 12:21:24.425] [32mhttp[39m: GET /admin (4 ms) 200
+[2025-10-16 12:21:24.699] [32mhttp[39m: GET /admin/project-type (2 ms) 200
+[2025-10-16 12:21:24.744] [32mhttp[39m: GET /favicon.ico (2 ms) 200
+[2025-10-16 12:21:24.863] [32mhttp[39m: GET /admin/init (4 ms) 200
+[2025-10-16 12:21:24.880] [32mhttp[39m: GET /admin/users/me (13 ms) 200
+[2025-10-16 12:21:24.893] [32mhttp[39m: GET /admin/users/me/permissions (12 ms) 200
+[2025-10-16 12:21:24.904] [32mhttp[39m: GET /admin/information (4 ms) 200
+[2025-10-16 12:21:24.908] [32mhttp[39m: GET /admin/telemetry-properties (4 ms) 200
+[2025-10-16 12:21:25.094] [32mhttp[39m: GET /admin/guided-tour-meta (12 ms) 200
+[2025-10-16 12:21:25.098] [32mhttp[39m: GET /admin/license-limit-information (3 ms) 200
+[2025-10-16 12:21:25.301] [32mhttp[39m: GET /content-manager/homepage/recent-documents?action=update (17 ms) 200
+[2025-10-16 12:21:25.316] [32mhttp[39m: GET /content-manager/homepage/recent-documents?action=publish (14 ms) 200
+[2025-10-16 12:21:25.324] [32mhttp[39m: GET /content-manager/homepage/count-documents (8 ms) 200
+[2025-10-16 12:21:25.330] [32mhttp[39m: GET /admin/homepage/key-statistics (5 ms) 200
+[2025-10-16 12:21:58.292] [32minfo[39m: File created: /Users/zsolt.ienei/Documents/Projects/todo-bmad/app/api/scripts/seed-test-data.js
+- Cleaning dist dir /Users/zsolt.ienei/Documents/Projects/todo-bmad/app/api/dist
+✔ Cleaning dist dir (26ms)
+[2025-10-16 12:21:59.035] [32minfo[39m: Shutting down Strapi
+[2025-10-16 12:21:59.037] [32minfo[39m: Strapi has been shut down
+- Loading Strapi
+[2025-10-16 12:21:59.953] [33mwarn[39m: admin.auth.options.expiresIn is deprecated and will be removed in Strapi 6. Please configure admin.auth.sessions.maxRefreshTokenLifespan and admin.auth.sessions.maxSessionLifespan.
+- Building build context
+
+[INFO] Including the following ENV variables as part of the JS bundle:
+    - ADMIN_PATH
+    - STRAPI_ADMIN_BACKEND_URL
+    - STRAPI_TELEMETRY_DISABLED
+    - STRAPI_AI_URL
+    - STRAPI_ANALYTICS_URL
+✔ Building build context (25ms)
+- Creating admin
+✔ Creating admin (140ms)
+✔ Loading Strapi (491ms)
+- Generating types
+✔ Generating types (86ms)
+- Compiling TS
+- Cleaning dist dir /Users/zsolt.ienei/Documents/Projects/todo-bmad/app/api/dist
+✔ Cleaning dist dir (2ms)
+✔ Compiling TS (626ms)
+
+ Project information
+
+┌────────────────────┬──────────────────────────────────────────────────┐
+│ Time               │ Thu Oct 16 2025 12:22:00 GMT+0300 (Eastern Euro… │
+│ Launched in        │ 1206 ms                                          │
+│ Environment        │ development                                      │
+│ Process PID        │ 6109                                             │
+│ Version            │ 5.27.0 (node v22.14.0)                           │
+│ Edition            │ Community                                        │
+│ Database           │ sqlite                                           │
+│ Database name      │ .tmp/data.db                                     │
+└────────────────────┴──────────────────────────────────────────────────┘
+
+ Actions available
+
+Welcome back!
+To access the server ⚡️, go to:
+http://localhost:1337
+
+[2025-10-16 12:22:00.869] [32minfo[39m: Strapi started successfully
+[2025-10-16 12:22:24.991] [32mhttp[39m: GET /api/todos?pagination[page]=1&pagination[pageSize]=100 (33 ms) 200
+[2025-10-16 12:22:25.005] [32mhttp[39m: DELETE /api/todos/v5gu1lps8alsqnrjnmqzce8r (6 ms) 204
+[2025-10-16 12:22:25.011] [32mhttp[39m: DELETE /api/todos/y9tx94xj3opv0kvmjtcxs042 (4 ms) 204
+[2025-10-16 12:22:25.016] [32mhttp[39m: DELETE /api/todos/ve8khnhlp226rhygh21sr903 (3 ms) 204
+[2025-10-16 12:22:25.022] [32mhttp[39m: DELETE /api/todos/zzzkdf9k64i9xzhgrbgzisze (4 ms) 204
+[2025-10-16 12:22:25.026] [32mhttp[39m: DELETE /api/todos/a2k0kj04jgld82z00yyy38om (3 ms) 204
+[2025-10-16 12:22:25.031] [32mhttp[39m: DELETE /api/todos/dl3ysa5x7bkjnc1zb0vtu9lv (3 ms) 204
+[2025-10-16 12:22:25.035] [32mhttp[39m: DELETE /api/todos/jny0k4dqths1t4rmzsn6cmdi (3 ms) 204
+[2025-10-16 12:22:25.041] [32mhttp[39m: DELETE /api/todos/qioer407sphvya2de6fdab7t (4 ms) 204
+[2025-10-16 12:22:25.046] [32mhttp[39m: DELETE /api/todos/ks98resfz2v0qsq8x2lerbv4 (3 ms) 204
+[2025-10-16 12:22:25.049] [32mhttp[39m: DELETE /api/todos/tcjfyknsowmdc9rrd1jauj22 (2 ms) 204
+[2025-10-16 12:22:25.053] [32mhttp[39m: DELETE /api/todos/i4ha6ljdck56p1fy5x1y6isx (3 ms) 204
+[2025-10-16 12:22:25.056] [32mhttp[39m: DELETE /api/todos/mniyqu70df5ov1romlefatu6 (2 ms) 204
+[2025-10-16 12:22:25.058] [32mhttp[39m: DELETE /api/todos/hlb5qp0eq0ojs4qqxiptf7or (2 ms) 204
+[2025-10-16 12:22:25.062] [32mhttp[39m: DELETE /api/todos/mimh8qqxo3npddcnskmawlch (3 ms) 204
+[2025-10-16 12:22:25.065] [32mhttp[39m: DELETE /api/todos/vt9zssvd53w645u9kn0ucwny (2 ms) 204
+[2025-10-16 12:22:25.068] [32mhttp[39m: DELETE /api/todos/xm5bwb5c2eh6wsuwxdfve21e (3 ms) 204
+[2025-10-16 12:22:25.070] [32mhttp[39m: DELETE /api/todos/v9n17zdbnalfnuwr3ml82lfr (2 ms) 204
+[2025-10-16 12:22:25.073] [32mhttp[39m: DELETE /api/todos/h0demmta5cnx6l0tp958lgp5 (2 ms) 204
+[2025-10-16 12:22:25.076] [32mhttp[39m: DELETE /api/todos/wksa2utwo2a08qoa7soevars (3 ms) 204
+[2025-10-16 12:22:25.078] [32mhttp[39m: DELETE /api/todos/ih2letked8eyubqf65qbzomz (2 ms) 204
+[2025-10-16 12:22:25.081] [32mhttp[39m: DELETE /api/todos/guh6da1tw8uude0swh8mq2pi (2 ms) 204
+[2025-10-16 12:22:25.083] [32mhttp[39m: DELETE /api/todos/gkmcjhvm97d78xl9x1sx879m (1 ms) 204
+[2025-10-16 12:22:25.085] [32mhttp[39m: DELETE /api/todos/m95z2o8yevytrnrra9gg4cfk (1 ms) 204
+[2025-10-16 12:22:25.099] [32mhttp[39m: POST /api/todos (12 ms) 201
+[2025-10-16 12:22:25.209] [32mhttp[39m: POST /api/todos (6 ms) 201
+[2025-10-16 12:22:25.320] [32mhttp[39m: POST /api/todos (8 ms) 201
+[2025-10-16 12:22:25.444] [32mhttp[39m: POST /api/todos (19 ms) 201
+[2025-10-16 12:22:25.575] [32mhttp[39m: POST /api/todos (25 ms) 201
+[2025-10-16 12:22:25.699] [32mhttp[39m: POST /api/todos (18 ms) 201
+[2025-10-16 12:22:25.822] [32mhttp[39m: POST /api/todos (16 ms) 201
+[2025-10-16 12:22:25.945] [32mhttp[39m: POST /api/todos (19 ms) 201
+[2025-10-16 12:22:26.072] [32mhttp[39m: POST /api/todos (23 ms) 201
+[2025-10-16 12:22:26.190] [32mhttp[39m: POST /api/todos (14 ms) 201
+[2025-10-16 12:22:26.310] [32mhttp[39m: POST /api/todos (15 ms) 201
+[2025-10-16 12:22:26.433] [32mhttp[39m: POST /api/todos (19 ms) 201
+[2025-10-16 12:22:26.553] [32mhttp[39m: POST /api/todos (16 ms) 201
+[2025-10-16 12:22:26.674] [32mhttp[39m: POST /api/todos (16 ms) 201
+[2025-10-16 12:22:26.797] [32mhttp[39m: POST /api/todos (18 ms) 201
+[2025-10-16 12:22:26.919] [32mhttp[39m: POST /api/todos (15 ms) 201
+[2025-10-16 12:22:27.042] [32mhttp[39m: POST /api/todos (18 ms) 201
+[2025-10-16 12:22:27.166] [32mhttp[39m: POST /api/todos (18 ms) 201
+[2025-10-16 12:22:27.296] [32mhttp[39m: POST /api/todos (24 ms) 201
+[2025-10-16 12:22:27.419] [32mhttp[39m: POST /api/todos (17 ms) 201
+[2025-10-16 12:22:27.550] [32mhttp[39m: POST /api/todos (25 ms) 201
+[2025-10-16 12:22:27.681] [32mhttp[39m: POST /api/todos (26 ms) 201
+[2025-10-16 12:22:27.807] [32mhttp[39m: POST /api/todos (20 ms) 201
+[2025-10-16 12:22:27.922] [32mhttp[39m: POST /api/todos (10 ms) 201
+[2025-10-16 12:22:28.044] [32mhttp[39m: POST /api/todos (17 ms) 201
+[2025-10-16 12:22:56.697] [32minfo[39m: File changed: /Users/zsolt.ienei/Documents/Projects/todo-bmad/app/api/scripts/seed-test-data.js
+- Cleaning dist dir /Users/zsolt.ienei/Documents/Projects/todo-bmad/app/api/dist
+✔ Cleaning dist dir (6ms)
+[2025-10-16 12:22:57.278] [32minfo[39m: Shutting down Strapi
+[2025-10-16 12:22:57.279] [32minfo[39m: Strapi has been shut down
+- Loading Strapi
+[2025-10-16 12:22:58.340] [33mwarn[39m: admin.auth.options.expiresIn is deprecated and will be removed in Strapi 6. Please configure admin.auth.sessions.maxRefreshTokenLifespan and admin.auth.sessions.maxSessionLifespan.
+- Building build context
+
+[INFO] Including the following ENV variables as part of the JS bundle:
+    - ADMIN_PATH
+    - STRAPI_ADMIN_BACKEND_URL
+    - STRAPI_TELEMETRY_DISABLED
+    - STRAPI_AI_URL
+    - STRAPI_ANALYTICS_URL
+✔ Building build context (31ms)
+- Creating admin
+✔ Creating admin (184ms)
+✔ Loading Strapi (612ms)
+- Generating types
+✔ Generating types (91ms)
+- Compiling TS
+- Cleaning dist dir /Users/zsolt.ienei/Documents/Projects/todo-bmad/app/api/dist
+✔ Cleaning dist dir (3ms)
+✔ Compiling TS (691ms)
+
+ Project information
+
+┌────────────────────┬──────────────────────────────────────────────────┐
+│ Time               │ Thu Oct 16 2025 12:22:59 GMT+0300 (Eastern Euro… │
+│ Launched in        │ 1397 ms                                          │
+│ Environment        │ development                                      │
+│ Process PID        │ 6355                                             │
+│ Version            │ 5.27.0 (node v22.14.0)                           │
+│ Edition            │ Community                                        │
+│ Database           │ sqlite                                           │
+│ Database name      │ .tmp/data.db                                     │
+└────────────────────┴──────────────────────────────────────────────────┘
+
+ Actions available
+
+Welcome back!
+To access the server ⚡️, go to:
+http://localhost:1337
+
+[2025-10-16 12:22:59.377] [32minfo[39m: Strapi started successfully
+[2025-10-16 12:23:01.018] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Bdone%5D%5B%24eq%5D=true (27 ms) 200
+[2025-10-16 12:23:01.772] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Bdone%5D%5B%24eq%5D=false (20 ms) 200
+[2025-10-16 12:23:02.445] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (15 ms) 200
+[2025-10-16 12:23:03.460] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=2&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (14 ms) 200
+[2025-10-16 12:23:05.353] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (12 ms) 200
+[2025-10-16 12:23:07.282] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=2&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (19 ms) 200
+[2025-10-16 12:23:07.586] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=3&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (11 ms) 200
+[2025-10-16 12:42:14.405] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=3&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (17 ms) 200
+[2025-10-16 12:42:18.648] [32mhttp[39m: OPTIONS /api/todos/rd4at2xmhdl85y2weskameuh (1 ms) 204
+[2025-10-16 12:42:18.687] [32mhttp[39m: PUT /api/todos/rd4at2xmhdl85y2weskameuh (36 ms) 200
+[2025-10-16 12:42:18.921] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=3&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (11 ms) 200
+[2025-10-16 12:42:19.307] [32mhttp[39m: PUT /api/todos/rd4at2xmhdl85y2weskameuh (18 ms) 200
+[2025-10-16 12:42:19.536] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=3&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (10 ms) 200
+[2025-10-16 12:42:25.994] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (15 ms) 200
+[2025-10-16 12:42:27.359] [32mhttp[39m: OPTIONS /api/todos/cua4ytz8qj7cglv6heblonr7 (0 ms) 204
+[2025-10-16 12:42:27.380] [32mhttp[39m: PUT /api/todos/cua4ytz8qj7cglv6heblonr7 (18 ms) 200
+[2025-10-16 12:42:27.477] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (10 ms) 200
+[2025-10-16 12:42:29.345] [32mhttp[39m: OPTIONS /api/todos/fbl5e6bu4511c40zfpl6a05a (1 ms) 204
+[2025-10-16 12:42:29.364] [32mhttp[39m: PUT /api/todos/fbl5e6bu4511c40zfpl6a05a (17 ms) 200
+[2025-10-16 12:42:29.457] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (12 ms) 200
+[2025-10-16 12:42:30.479] [32mhttp[39m: PUT /api/todos/fbl5e6bu4511c40zfpl6a05a (20 ms) 200
+[2025-10-16 12:42:30.566] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (14 ms) 200
+[2025-10-16 12:42:31.210] [32mhttp[39m: PUT /api/todos/cua4ytz8qj7cglv6heblonr7 (14 ms) 200
+[2025-10-16 12:42:31.285] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (9 ms) 200
+[2025-10-16 12:42:31.781] [32mhttp[39m: PUT /api/todos/rd4at2xmhdl85y2weskameuh (20 ms) 200
+[2025-10-16 12:42:31.875] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (11 ms) 200
+[2025-10-16 12:42:32.998] [32mhttp[39m: OPTIONS /api/todos/ernu9b0zayrrinrlhcysxp9m (1 ms) 204
+[2025-10-16 12:42:33.016] [32mhttp[39m: PUT /api/todos/ernu9b0zayrrinrlhcysxp9m (16 ms) 200
+[2025-10-16 12:42:33.109] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (7 ms) 200
+[2025-10-16 12:42:34.699] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=2&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (10 ms) 200
+[2025-10-16 12:42:34.904] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=3&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (9 ms) 200
+[2025-10-16 12:42:41.166] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=3&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Bdone%5D%5B%24eq%5D=false (10 ms) 200
+[2025-10-16 12:42:41.190] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Bdone%5D%5B%24eq%5D=false (13 ms) 200
+[2025-10-16 12:42:42.552] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=2&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Bdone%5D%5B%24eq%5D=false (13 ms) 200
+[2025-10-16 12:42:45.566] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=2&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Bdone%5D%5B%24eq%5D=true (10 ms) 200
+[2025-10-16 12:42:45.598] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Bdone%5D%5B%24eq%5D=true (12 ms) 200
+[2025-10-16 12:42:50.065] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Aasc&filters%5Bdone%5D%5B%24eq%5D=true (9 ms) 200
+[2025-10-16 12:42:54.023] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Bdone%5D%5B%24eq%5D=true (12 ms) 200
+[2025-10-16 12:42:55.081] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (12 ms) 200
+[2025-10-16 12:42:59.294] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Btitle%5D%5B%24containsi%5D=ba (10 ms) 200
+[2025-10-16 12:43:04.708] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Btitle%5D%5B%24containsi%5D=base (9 ms) 200
+[2025-10-16 12:54:58.018] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Btitle%5D%5B%24containsi%5D=base (50 ms) 200
+[2025-10-16 12:54:58.696] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc&filters%5Btitle%5D%5B%24containsi%5D=base&filters%5Bdone%5D%5B%24eq%5D=false (12 ms) 200
+[2025-10-16 12:55:03.976] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (12 ms) 200
+[2025-10-16 16:07:13.981] [32mhttp[39m: GET /api/todos?pagination%5Bpage%5D=1&pagination%5BpageSize%5D=10&sort=createdAt%3Adesc (20 ms) 200
