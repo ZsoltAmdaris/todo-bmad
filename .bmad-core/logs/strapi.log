@@ -494,3 +494,4 @@ http://localhost:1337
 [2025-10-16 11:17:30.723] [32mhttp[39m: GET /api/todos?pagination[page]=1&pagination[pageSize]=25&sort=createdAt:desc (6 ms) 200
 [2025-10-16 11:17:51.994] [32mhttp[39m: GET /api/todos?pagination[page]=1&pagination[pageSize]=25&sort=createdAt:desc (38 ms) 200
 [2025-10-16 11:21:23.244] [32mhttp[39m: GET /api/todos?pagination[page]=1&pagination[pageSize]=25&sort=createdAt:desc (21 ms) 200
+[2025-10-16 11:35:29.097] [32mhttp[39m: GET /api/todos?pagination[page]=1&pagination[pageSize]=25&sort=createdAt:desc (15 ms) 200
